@@ -1,32 +1,32 @@
 {
   "main": {
-    "name": "Vijay Godhasara",
+    "name": "Kapil Nadiyapara",
     "occupation": "Senior Software Engineer @Zextras Group",
-    "image": "vijay_godhasara.jpeg",
-    "bio": "My name is Vijay Godhasara, and I'm a Senior Software Engineer currently working at Zextras Group. With over 13 years of experience in full-stack development, I have successfully delivered projects involving distributed systems. I excel in leadership, team management, adaptability, and problem-solving. My expertise lies in providing high-quality, robust solutions that consistently meet and exceed client expectations",
-    "email": "vijaygodhasara@gmail.com",
-    "phone": "+91 9978186691",
+    "image": "kapil_img.jpeg",
+    "bio": "My name is Kapil Nadiyapara, and I'm a Senior Software Engineer currently working at Zextras Group. With over 13 years of experience in Software development, I have successfully delivered projects involving distributed systems. I excel in leadership, adaptability, and problem-solving. My expertise lies in providing high-quality, robust solutions that consistently meet and exceed client expectations",
+    "email": "kapil.nadiyapara@gmail.com",
+    "phone": "+91 9974874566",
     "address": {
-      "village": "Gota",
-      "city": "Ahmedabad",
+      "village": "Yogeshwarnagar - 1",
+      "city": "Jamnagar",
       "state": "Gujarat",
-      "zip": "382481"
+      "zip": "361007"
     },
-    "resumedownload": "https://drive.google.com/file/d/1-MD_K6YV4-HBX301nswN42FwS9zEGZCN/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1vs4rAzlvFBWMDLPgi6c2nqXlawaT7bhZ/view?usp=drive_link",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/vijaygodhasara",
+        "url": "https://www.facebook.com/kapil.nadiyapara",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/vijaygodhasara",
+        "url": "https://www.linkedin.com/in/kapil-nadiyapara-98772033/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "github",
-        "url": "https://github.com/vijaygodhasara",
+        "url": "https://github.com/kapilnadiyapara",
         "className": "fa fa-github"
       }
     ]
@@ -37,28 +37,27 @@
       {
         "school": "LDRP Institute of Technology and Research",
         "degree": "Master of computer application",
-        "graduated": "June 2010",
+        "graduated": "June 2011",
         "description": "Graduated with Distinction"
       }
     ],
     "work": [
       {
-        "company": "ZEXTRAS GROUPS",
+        "company": "ZEXTRAS",
         "title": "Senior Software Engineer",
-        "years": "March 2022 - Present",
+        "years": "November 2021 - Present",
         "description": "At Zextras Group, a technology company specializing in communication and collaboration solutions, I oversee development leadership, code review, integration, and QA builds. I facilitate daily scrum meetings and sprint activities, mentor team members, resolve dependencies, develop Admin Panel and Login UI components, define project structures, integrate modules, automate builds, implement TDD practices, deploy SonarQube for code quality, collaborate with the admin team on server setup and deployment, engage with project owners and stakeholders, optimize system performance and tracking, and prepare developer documentation. My efforts are dedicated to enhancing quality, productivity, and efficiency while ensuring clear requirements and stakeholder satisfaction."
       },
       {
-        "company": "VNC India Pvt tld",
-        "title": "Senior Software Engineer",
-        "years": "July 2015 - March 2022",
-        "description": "VNC India Pvt Ltd, a product-based company, entrusted me with conducting requirement analysis, designing and architecting products across web, desktop, and mobile platforms. I developed comprehensive test cases for quality assurance, led team management and development processes, conducted rigorous code reviews, orchestrated seamless integrations, and spearheaded project management using Redmine. I facilitated daily scrum meetings, actively participated in sprint activities, and implemented robust Single Sign-On solutions utilizing OpenAM, OpenDJ, and IDP-based Federation Services. Additionally, I innovated by designing and deploying a SAML plugin and connector in OpenIDM to streamline user provisioning. Furthermore, I contributed to enhancing workflow efficiency, bolstering security measures, optimizing user management processes, and ensuring punctual project deliveries through CI/CD pipeline implementations and release activities."
-      },
-      {
-        "company": "Einfochips",
-        "title": "Software Engineer",
-        "years": "July 2010 - July 2015",
-        "description": "At eInfochips, a service-based company, I contributed to multiple projects by conducting requirement analysis, designing and architecting solutions, collaborating with Cisco's technical team, implementing UI and business layers using various tools, working on distributed systems used by over 6000 customers, automating build and patch version processes, mentoring junior developers to ensure high-quality project delivery, and providing product support and maintenance."
+        "company": "VNC Technologies Pvt tld",
+        "title": "Senior Application Engineer",
+        "years": "January 2015 - November 2021",
+        "description": "VNC Developments (India) Pvt. Ltd., a product-based company, entrusted me with conducting requirement analysis, designing and architecting products across web, desktop, and mobile platforms. I developed comprehensive test cases for quality assurance, led team management and development processes, conducted rigorous code reviews, orchestrated seamless integrations, and spearheaded project management using Redmine. I facilitated daily scrum meetings, actively participated in sprint activities. Additionally, I develped zimlet like VNCmail, VNCcrm, VNCcalendar, VNCtalk, VNCcommander, VNCproject, VNCcontact. Furthermore, I contributed to enhancing workflow efficiency, bolstering security measures, optimizing user management processes, and ensuring punctual project deliveries through CI/CD pipeline implementations and release activities."
+      }, {
+        "company": "VNC Developments (India) Pvt. Ltd.",
+        "title": "Application Engineer",
+        "years": "July 2011 - December 2014",
+        "description": "VNC Developments (India) Pvt. Ltd., a product-based company, entrusted me with conducting requirement analysis, designing and architecting products across web, desktop, and mobile platforms. I developed comprehensive test cases for quality assurance, led team management and development processes, conducted rigorous code reviews, orchestrated seamless integrations, and spearheaded project management using Redmine. I facilitated daily scrum meetings, actively participated in sprint activities. Additionally, I develped zimlet like ERPConnector, VNCcrm, VNC History Zimlet etc. Furthermore, I contributed to enhancing workflow efficiency, bolstering security measures, optimizing user management processes, and ensuring punctual project deliveries through CI/CD pipeline implementations and release activities."
       }
     ],
     "skills": [
@@ -91,27 +90,21 @@
       "items": [
         "Java", 
         "J2EE", 
-        "Spring",
+        "Spring Boot",
         "Node.js", 
         "Express.js",
         "Shell scripting", 
-        "Groovy",
         "SOAP API",
         "REST API",
         "Postman",
         "Hibernate",
         "MySQL", 
-        "PostgreSQL", 
-        "SQLite", 
-        "Oracle"
+        "PostgreSQL"
       ]
     },
     {
       "category": "Middleware and Identity Management",
       "items": [
-        "ForgeRock OpenAM", 
-        "OpenDJ",
-        "OpenIDM",
         "Zimbra mail server",
         "Zimbra plugin development"
       ]
@@ -140,10 +133,7 @@
         "Mentoring",
         "Problem-solving",
         "Adpatibility",
-        "Collaboration",
-        "AWS (Amazon Web Services)",
-        "Docker", 
-        "Microservices architecture"
+        "Collaboration"
       ]
     }
   ]
@@ -185,12 +175,6 @@
         "category": "VNCdirectory Full-blown directory tools for all VNClagoon applications. Integration with third party directory services.",
         "image": "vncdirectory.png",
         "url": "https://vnclagoon.com/products/vncdirectory/"
-      },
-      {
-        "title": "Cisco Digital Media Manager",
-        "category": "Manage, schedule, and publish compelling digital media with Cisco Digital Media Manager",
-        "image": "dmm.avif",
-        "url": "https://www.cisco.com/c/en/us/products/video/digital-media-manager/index.html"
       }
     ]
   },
