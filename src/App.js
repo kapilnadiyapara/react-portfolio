@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import ReactGA from "react-ga";
 import $ from "jquery";
 import "./App.css";
 import Header from "./Components/Header";
@@ -12,10 +11,10 @@ import Portfolio from "./Components/Portfolio";
 
 class App extends Component {
   constructor(props) {
+    console.log('Come to constructor');
     super(props);
     this.state = {
-      foo: "bar",
-      resumeData: {},
+      resumeData: {}
     };
   }
 
@@ -35,6 +34,7 @@ class App extends Component {
   }
 
   componentDidMount() {
+    console.log('Comes here');
     this.getResumeData();
   }
 
