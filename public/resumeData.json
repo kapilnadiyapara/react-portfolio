@@ -12,7 +12,7 @@
       "state": "Gujarat",
       "zip": "361007"
     },
-    "resumedownload": "https://drive.google.com/file/d/1F-GO2qrWzGWxLSDKsgNeMW9UcQXa_fUX/view",
+    "resumedownload": "https://drive.google.com/file/d/10D7M2M8PrngjRP8OeurbrKR9a0cJbbvT/view",
     "social": [
       {
         "name": "facebook",
@@ -82,7 +82,8 @@
         "Selenium",
         "Babel",
         "Webpack",
-        "BrowserStack"
+        "BrowserStack",
+        "GraphQL"
       ]
     },
     {
@@ -99,7 +100,8 @@
         "Postman",
         "Hibernate",
         "MySQL", 
-        "PostgreSQL"
+        "PostgreSQL",
+        "GraphQL"
       ]
     },
     {
